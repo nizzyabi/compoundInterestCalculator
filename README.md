@@ -1,6 +1,4 @@
-# React + Vite
-
-**This is a compound interest calculator**
+# **This is a compound interest calculator**
 
 It calculates the amount of compound interest the user will get based of the initial amount they input, monthly contributions they want to put in, interest rate of their choice, and number of years they want to compound.
 
